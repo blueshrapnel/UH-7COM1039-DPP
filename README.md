@@ -8,7 +8,7 @@ This repository contains a LaTeX version of the guide template included on page 
 Feel free to use this LaTeX template with [Overleaf](http://overleaf.com) or any other editor, e.g. [Microsoft Visual Studio Code](https://code.visualstudio.com/) with the following extensions: LaTeX language support (mathematic.vscode-latex) and LaTeX Workshop (James-Yu.latex-workshop).
 
 Manage references using a bibliography manager (see two examples below) which makes it easier to export bibtex entries.  
- * https://www.zotero.org/  or create `bibtex` entries using https://zbib.org/
+ * https://www.zotero.org/  or create bibtex entries using https://zbib.org/
  * https://www.mendeley.com 
 
 
