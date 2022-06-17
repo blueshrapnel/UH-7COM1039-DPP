@@ -1,0 +1,15 @@
+\begin{thebibliography}{}
+
+\bibitem[Callaway et~al., 2018]{Callaway2018:resource-rational-planning}
+Callaway, F., Lieder, F., Das, P., Gul, S., Krueger, P.~M., \& Griffiths, T.~L.
+  (2018).
+\newblock A resource-rational analysis of human planning.
+\newblock In {\em Proceedings of the 40th Annual Conference of the Cognitive
+  Science Society}  (pp.\ 178--183).
+
+\bibitem[Sutton \& Barto, 2018]{Sutton2018}
+Sutton, R.~S. \& Barto, A.~G. (2018).
+\newblock {\em {Reinforcement Learning: An Introduction}}.
+\newblock Cambridge MA: MIT Press (Bradford Book), 2nd edition.
+
+\end{thebibliography}
