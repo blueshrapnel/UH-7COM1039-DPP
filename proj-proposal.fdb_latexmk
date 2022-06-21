@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex proj-proposal"] 1655472457 "proj-proposal.aux" "proj-proposal.bbl" "proj-proposal" 1655472464
+["bibtex proj-proposal"] 1655472457 "proj-proposal.aux" "proj-proposal.bbl" "proj-proposal" 1655808468
   "/usr/share/texlive/texmf-dist/bibtex/bst/apalike2/apalike2.bst" 1242948958 26644 77647ad43a99e9d8b2661f2ca815cba7 ""
-  "proj-proposal.aux" 1655472457 851 a2359470d5d40d6fcdb328d6d21af45c "pdflatex"
+  "proj-proposal.aux" 1655808467 851 a2359470d5d40d6fcdb328d6d21af45c "pdflatex"
   "refs.bib" 1655462302 2154 7f70f626f650c65752278229b506e6bb ""
   (generated)
-  "proj-proposal.bbl"
   "proj-proposal.blg"
-["pdflatex"] 1655472457 "/home/karen/7COM1039/UH-7COM1039-DPP/proj-proposal.tex" "proj-proposal.pdf" "proj-proposal" 1655472464
+  "proj-proposal.bbl"
+["pdflatex"] 1655808467 "/home/karen/7COM1039-DPP/proj-proposal.tex" "proj-proposal.pdf" "proj-proposal" 1655808468
   "/etc/texmf/web2c/texmf.cnf" 1617554827 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/karen/7COM1039/UH-7COM1039-DPP/proj-proposal.tex" 1655472456 4258 091cb7be5250fbf05cc1d63cf3138a23 ""
+  "/home/karen/7COM1039-DPP/proj-proposal.tex" 1655808467 4264 cab4586e88d0aaeabda2639e153f1ae6 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchb8r.tfm" 1136768653 5184 4fd08a9613e75c1da82714d79cf8b4f1 ""
@@ -147,10 +147,10 @@
   "herts-logo-black.png" 1580827251 70761 1d7857f50b63493133511c42702af95d ""
   "includes-math.tex" 1655456834 269 5f2f2ae5b6263168f6f8c798472618a3 ""
   "includes-preamble.tex" 1598256963 2098 c8b4ecb0f081e5a4fba3de8119d427ef ""
-  "proj-proposal.aux" 1655472457 851 a2359470d5d40d6fcdb328d6d21af45c "pdflatex"
+  "proj-proposal.aux" 1655808467 851 a2359470d5d40d6fcdb328d6d21af45c "pdflatex"
   "proj-proposal.bbl" 1655472457 591 690a171572f7e199e1e3d66d5780a881 "bibtex proj-proposal"
-  "proj-proposal.tex" 1655472456 4258 091cb7be5250fbf05cc1d63cf3138a23 ""
+  "proj-proposal.tex" 1655808467 4264 cab4586e88d0aaeabda2639e153f1ae6 ""
   (generated)
-  "proj-proposal.aux"
-  "proj-proposal.log"
   "proj-proposal.pdf"
+  "proj-proposal.log"
+  "proj-proposal.aux"

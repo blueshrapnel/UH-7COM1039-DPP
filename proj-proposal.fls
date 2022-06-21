@@ -1,9 +1,9 @@
-PWD /home/karen/7COM1039/UH-7COM1039-DPP
+PWD /home/karen/7COM1039-DPP
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/karen/7COM1039/UH-7COM1039-DPP/proj-proposal.tex
+INPUT /home/karen/7COM1039-DPP/proj-proposal.tex
 OUTPUT proj-proposal.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
